@@ -2,7 +2,7 @@
 
 ## What does this project do?
 
- In this project, based on [Dinh, et al., 2019, p. 1-17](https://link.sp![Figura 2.](output/cluster4.png "Figura 2.")1), part of the k-SCC algorithm is parallelized, specifically the clustering step that, given a number of clusters, must be performed a sufficiently large number of times to avoid suboptimal solutions in the minimization of the cost function. All these processes for finding solutions of the cost function minimization problem, which are mutually independent, are carried out in parallel, and finally the optimal solution is chosen.
+ In this project, based on [Dinh, et al., 2019, p. 1-17](https://link.springer.com/chapter/10.1007/978-981-15-1209-4_1), part of the k-SCC algorithm is parallelized, specifically the clustering step that, given a number of clusters, must be performed a sufficiently large number of times to avoid suboptimal solutions in the minimization of the cost function. All these processes for finding solutions of the cost function minimization problem, which are mutually independent, are carried out in parallel, and finally the optimal solution is chosen.
 
 ## Why is the project useful?
 
