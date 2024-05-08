@@ -12,7 +12,7 @@ Because the computing time improves significantly. For example, on a computer wi
 
 In the notebook there is the main loop that executes the k-SCC steps on the data set, as well as the visualization of the probabilistic centers for the optimal number of clusters.
 
-Most of the libraries necessary to run this project are included by default: numpy, pandas, sklearn matplotlib and math. The tqdm library is also used to calculate the computation times of the main loop and thus observe the advantages of parallelization of the first step of the algorithm.
+Most of the libraries necessary to run this project are included in Anaconda by default: numpy, pandas, sklearn matplotlib and math. The tqdm library is also used to calculate the computation times of the main loop and thus observe the advantages of parallelization of the first step of the algorithm.
 
 So you only need to have a data set of categorical variables in csv format and then run the notebook.
  
