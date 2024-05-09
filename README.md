@@ -18,7 +18,7 @@ So you only need to have a data set of categorical variables in csv format and t
  
 ## Usage example
 
-The $k$-SCC algorithm is used to divide a sample of 659 students enrolled in the Astronomy program at the University of Antioquia who took the Saber 11 exam between the 2017-1 and 2019-2 semesters. Clustering was done according to a set of 6 socioeconomic variables, 2 variables that report on the applicants' high school and the binary variable that indicates whether the applicant was admitted to the program.
+The $k$-SCC algorithm is used to divide a sample of 659 students enrolled in the Astronomy program at the University of Antioquia who took the Saber 11 exam between the 2017-1 and 2019-2 semesters. Clustering was done according to a set of 5 socioeconomic variables, 2 variables that inform on the applicants' high school, 1 educational level variable and the binary variable that indicates whether the applicant was admitted to the program.
 
 Below you can see the silhouette diagram with $k=5$ clusters, the optimal number of clusters according to the silhouette score and the sufficient number of observations with a silhouette coefficient above the silhouette score.
 
