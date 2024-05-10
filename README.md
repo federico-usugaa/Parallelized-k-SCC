@@ -6,7 +6,7 @@
 
 ## Why is the project useful?
 
-Because the computing time improves significantly. For example, on a computer with a 13th Gen Intel(R) Core (TM) i7-13700 processor (base speed of 2.10 GHz, 16 cores and 24 logical processors) the computing time goes from $20:09$ ($151.24 \frac{s}{it}$), with n_init=100 and n_jobs=1, to $2:29$ ($18.67 \frac{s}{it}$), the same 100 times but using all available threads.
+Because the computing time improves significantly. For example, on a computer with a 13th Gen Intel(R) Core (TM) i7-13700 processor (base speed of 2.10 GHz, 16 cores and 24 logical processors) the computing time goes from $1209 s$ ($151.24 \frac{s}{it}$), with n_init=100 and n_jobs=1, to $149 s$ ($18.67 \frac{s}{it}$), the same 100 times but using all available threads.
 
 ## How to start with this project?
 
